@@ -7,8 +7,7 @@ import { connect } from 'react-redux';
 import Http from '../services/HttpService'
 import Storage from '../services/StorageService'
 // import {
-//     getUser, checkLoginStatus
-// } from '../../redux/actions/Global.Actions'
+//     getUser, checkLoginStatus } from '../../redux/actions/Global.Actions'
 
 
 class LoginScreen extends Component {
